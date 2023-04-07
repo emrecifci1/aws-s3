@@ -1,0 +1,10 @@
+   75  git remote rm origin
+   76  git remote add origin https://github.com/emrecifci1/aws-s3.git
+   82  git push origin main
+   84  nano txt
+   85  nano ec2
+   86  git add .
+   87  git commit -m
+   88  git commit -m "ajksdhajkajdsakl" 
+   89  git push 
+   90  git push origin main
